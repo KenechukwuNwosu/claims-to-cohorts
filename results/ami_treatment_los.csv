@@ -1,0 +1,5 @@
+treatment,n_records,n_claim_ids,mean_los,median_los
+CABG,107,107,11.093457944,8
+Catheterization,174,174,4.6724137931,4
+None,895,895,5.6212290503,4
+PCI,463,463,3.5766738661,2

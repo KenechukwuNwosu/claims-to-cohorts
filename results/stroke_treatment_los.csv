@@ -1,0 +1,3 @@
+treatment,n_records,n_claim_ids,mean_los,median_los
+Alteplase,49,49,6.0612244898,5
+None,1355,1355,4.9653136531,4

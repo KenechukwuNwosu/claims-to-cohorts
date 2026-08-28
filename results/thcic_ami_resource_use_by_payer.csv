@@ -1,0 +1,6 @@
+payer_group,discharges,median_los,median_charges
+Medicaid,507,4,"$85,328.00"
+Medicare,7019,3,"$84,407.00"
+Other,304,3,"$86,478.53"
+Private/Managed care,3664,3,"$85,393.74"
+Self-pay/Charity/Unknown,1674,3,"$89,502.95"
