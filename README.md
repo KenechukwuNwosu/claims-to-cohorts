@@ -230,6 +230,7 @@ claims-to-cohorts/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
@@ -303,4 +304,8 @@ Those decisions form the foundation on which defensible epidemiologic, HEOR, pha
 
 **Kenechukwu O. S. Nwosu**
 
-Epidemiology • Real-World Evidence • Health Outcomes Research • Clinical Research • Health Data Science
+## Author
+
+**Kenechukwu O. S. Nwosu**
+
+Real-World Evidence • Health Outcomes Research • Healthcare Claims Analytics • Pharmacoepidemiology
