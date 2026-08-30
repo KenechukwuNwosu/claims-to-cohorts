@@ -76,7 +76,16 @@ Together, the six source datasets contain **1,813,866 records**.
 
 The project follows a denominator-first and reproducibility-oriented workflow:
 
-**Raw administrative data → quality control → eligibility → clinical phenotyping → person-time construction → utilization/resource-use measures → aggregate outputs → reproducibility audit**
+```mermaid
+flowchart TD
+    A["Raw administrative data"] --> B["Structural quality control"]
+    B --> C["Eligibility and denominators"]
+    C --> D["Clinical phenotyping"]
+    D --> E["Person-time construction"]
+    E --> F["Utilization and resource use"]
+    F --> G["Aggregate outputs"]
+    G --> H["Reproducibility audit"]
+```
 
 ### 1. Data Inventory and Quality Control
 
