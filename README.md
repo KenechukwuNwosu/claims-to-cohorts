@@ -304,8 +304,4 @@ Those decisions form the foundation on which defensible epidemiologic, HEOR, pha
 
 **Kenechukwu O. S. Nwosu**
 
-## Author
-
-**Kenechukwu O. S. Nwosu**
-
 Real-World Evidence • Health Outcomes Research • Healthcare Claims Analytics • Pharmacoepidemiology
