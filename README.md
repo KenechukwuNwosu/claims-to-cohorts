@@ -4,6 +4,18 @@
 
 **A reproducible healthcare claims analytics framework for epidemiology, real-world evidence (RWE), health economics and outcomes research (HEOR), pharmacoepidemiology, and health-services research.**
 
+## 30-Second Summary
+
+| Element                    | Summary                                                                                                                                                                                                                    |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Problem**                | Administrative healthcare data must be converted into correctly defined populations, exposures, clinical events, and denominators before they can support credible real-world evidence.                                    |
+| **Data**                   | Six enrollment, inpatient, professional, pharmacy, hospital-discharge, and facility datasets containing 1,813,866 source records.                                                                                          |
+| **Methods**                | SAS-based quality control, eligibility construction, claims phenotyping, person-time transformation, medication-exposure construction, utilization analysis, resource-use analysis, and ICD-9/ICD-10 phenotype adaptation. |
+| **Principal Contribution** | Demonstrates a denominator-first framework for transforming heterogeneous administrative records into reproducible analytic cohorts while preserving transparent coding and data-governance decisions.                     |
+| **RWE/HEOR Relevance**     | Provides foundational methods for defining observable populations, healthcare events, medication exposure, utilization, and resource-use outcomes in real-world data.                                                      |
+
+**[Review the complete SAS program](code/Claims_to_Cohorts_Master.sas)** • **[Open the complete HTML report](docs/Claims_to_Cohorts_Report.html)**
+
 ---
 
 ## Project Overview
