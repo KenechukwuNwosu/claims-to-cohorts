@@ -14,7 +14,7 @@
 | **Principal Contribution** | Demonstrates a denominator-first framework for transforming heterogeneous administrative records into reproducible analytic cohorts while preserving transparent coding and data-governance decisions.                     |
 | **RWE/HEOR Relevance**     | Provides foundational methods for defining observable populations, healthcare events, medication exposure, utilization, and resource-use outcomes in real-world data.                                                      |
 
-**[Review the complete SAS program](code/Claims_to_Cohorts_Master.sas)** • **[Open the complete HTML report](docs/Claims_to_Cohorts_Report.html)**
+**[Review the complete SAS program](code/Claims_to_Cohorts_Master.sas)** • **[Download the complete HTML report](docs/Claims_to_Cohorts_Report.html)**
 
 ---
 
