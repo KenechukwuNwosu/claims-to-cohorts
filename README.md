@@ -248,6 +248,12 @@ To reproduce the workflow in an authorized environment:
 
 The completed project includes a final audit designed to confirm that the expected public-facing analytical outputs were produced during the same execution. All **14 expected aggregate CSV outputs were identified**, with **0 expected files missing**.
 
+### Reproducibility Scope
+
+The complete cohort-construction logic, phenotype searches, eligibility rules, aggregation procedures, output-generation steps, and final audit are documented in the public SAS program. Reproduction of individual modules depends on lawful access to their respective source datasets. The CMS DE-SynPUF components use synthetic Medicare data, while restricted Texas THCIC row-level records are not redistributed through this repository.
+
+The public repository therefore supports transparent review of the analytical logic and reproduction by authorized data users without implying that restricted source data can be openly shared.
+
 ---
 
 ## Data Governance
