@@ -30,17 +30,11 @@ Examples:
 /*------------------------------------------------------------------------------
 0.2 PROJECT ROOT
 
-%sysget(HOME) automatically retrieves the current SAS OnDemand home directory.
+%sysget(HOME) retrieves the current user's SAS home directory at run time.
 
-For your account this resolves to:
-
-/home/u63890411
-
-Therefore the complete project path becomes:
-
-/home/u63890411/Claims_To_Cohorts
-
-This is preferable to publishing your personal SAS user ID in GitHub code.
+The project root is then constructed relative to that environment-specific
+home directory. This avoids publishing or hard-coding a personal SAS
+OnDemand user identifier and allows the program to be adapted across users.
 ------------------------------------------------------------------------------*/
 
 %let HOME=%sysget(HOME);
